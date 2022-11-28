@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(166, 166, 255);
+}
+
+.wrapper{
+    width: 50%;
+    /* height: 350px; */
+    /* border: 1px solid black; */
+    background-color: white;
+    border-radius: 5px;
+}
+.birinchi{
+    display: flex;
+    border-bottom: 1px solid black;
+
+}
+.birinchi input{
+    margin: 20px;
+}
+.ikkinchi{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+.ikkinchi img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0 10px;
+    
+}
+.ikkinchi input{
+    margin: 20px;
+
+}
+.fa-plane-up{
+    margin: 0 15px 0 40px;
+}
+.ikkinchi a{
+    margin: 0 40px;
+    text-decoration: none;
+    color: blue;
+}
+.first{
+    margin-left: 20px;
+}
+.fa-arrow-right{
+    margin: 0 10px;
+}
